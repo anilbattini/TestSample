@@ -1,0 +1,91 @@
+# To initialise git in your local folder
+git init					
+
+# To make the git repo address shortcut
+git remote add origin https://github.com/username/project.git  
+
+# To get the data in repo master branch
+git pull origin master						
+
+# To get the data present in your repo (You get all branches and tags data)
+git pull							
+
+FOR SUBMODULES:
+git submodule update --init
+$ git submodule foreach git checkout -t origin/develop
+$ git checkout -t origin/develop
+$ git submodule foreach pull/push origin <branchName>
+
+To configure Git
+git config --global user.name "Your Name Here"
+git config --global user.email "your_email@example.com"
+
+To Edit git config file
+git config --global --edit
+
+
+FOR BRANCHING:
+git branch <branchname>					-- creates a branch
+git checkout <branchname>				-- switches you to this branch
+git checkout -b <branchname>       			-- creates and Switched to the new branch
+
+git status						-- To know about the status of your local repo.
+git add -a						-- To add everything from workspace
+
+git commit -m "Initial commit"
+	or git commit -am "Initial Commit"
+git commit --amend					-- to push with last commit message
+
+#if you want to edit last push commit message (Strictly avoided)
+git commit --amend -m "new commit message"
+
+
+git merge <branchname>					--merges branch with master
+
+
+#If you want to get some specific commits from pull requests or any other branches, do it.
+
+git cherry-pick abc0123
+
+
+
+if error: RPC failed; result=22, HTTP code = 411
+
+The default file post size for Git has been exceeded.
+git config http.postBuffer 524288000  [set to 500 MB]
+
+git branch -m old-branch-name new-branch-name			#rename local branch
+git branch -m <new name> 					#rename the current branch
+git push origin new-branch-name					#create remote renamed branch
+
+FOR TAGS:
+git tag -a <tagname> -m "tag message"
+git commit -am "Initial Commit"
+git push origin <tagname>
+git pull origin <tagname>
+git show <tagname>
+git tag -d <tagname>
+
+FOR UTILITIES:
+git status
+git log
+git remote (-v) show
+git branch (-v)
+git mv oldname newname
+git remote rm <remote name> 				--to delete a remote
+
+
+git stash						-- To make changes saved and place aside while pulling or pushing
+git pull
+git stash pop						-- To apply the saved changes after you pull from Source repo.
+
+REMOVING REMOTE
+git remote -v
+# View current remotes
+
+Note: Feel free to ask if you are stuck anywhere.
+** Please try to experiment with your sample repositories before you work with real code repo's.
+
+-Anilrajkumar Battini
+
+PS: Be careful with anything that deletes, Double check it.
