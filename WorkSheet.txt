@@ -1,5 +1,5 @@
-Date 					# Name 						# LoginTime
-06/01/17				  Anilrajkumar Battini		  9:20AM
+Date 					# Name 						# LogOffTime
+06/01/17				  Anilrajkumar Battini		  7:00PM
 
 Worked on CI-1047, PPP-2646 and they are done.
 ##############
