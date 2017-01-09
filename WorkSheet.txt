@@ -7,5 +7,8 @@ Worked on CI-1047, PPP-2646 and they are done.
 -Worked on Tablet build Smart-Remote-Release-China/63/, V:9.7.0.6 and performed defect retesting 
 - Worked on PLM Issues.
 
+9/1/17					Lavanya Chinta                 6:00PM
+Worked on CI-1043 and CI-1052
+
 ##############
 
