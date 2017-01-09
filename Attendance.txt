@@ -11,5 +11,4 @@ Date 					# Name 						# LoginTime
 09/01/17				  Priya G					  12:15PM
 09/01/17				  Sriharsha Y				  12:26PM
 09/01/17 				  Shilpa Goteti		           12.35pm
-09/01/17				  Jithin				12:50PM
 #########
