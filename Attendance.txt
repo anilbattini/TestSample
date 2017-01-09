@@ -1,7 +1,15 @@
 Date 					# Name 						# LoginTime
+<<<<<<< HEAD
 06/01/17				  Anilrajkumar Battini		  9:30AM		 
 09/01/17				  Lavanya Chinta    		  10:00AM	
 09/01/17				  Archana Ravilla		      10.30AM
 09/01/17                                  Rohitha Thammineni                  10:30AM 
 09/01/17                                  Swetha G			      11:00AM
+=======
+06/01/16				  Anilrajkumar Battini		  9:30AM		 
+09/01/16				  Lavanya Chinta    		  10:00AM	
+09/01/16				  Archana Ravilla		      10.30AM
+09/01/16                                  Rohitha Thammineni                  10:30AM 
+09/01/16				  Ranjith Kumar		          11.30AM
+>>>>>>> f85b3c7... login time updated
 #########
