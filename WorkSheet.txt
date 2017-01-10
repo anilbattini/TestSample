@@ -61,7 +61,7 @@ Worked on Videocon sample test and also updated the OEM doc
 >>>>>>> a246b19... Revathi's work sheet updated
 =======
 
-9/1/17					Swetha G                       6:30PM
+10/1/17					Swetha G                       6:30PM
 Worked on latest release(China device) build.
 
 ##############
