@@ -13,4 +13,7 @@ Worked on CI-1043 and CI-1052
 9/1/17					Naresh                         6:30PM
 Worked on IR and migration of provider testing.
 
+9/1/17					Swetha G                       6:30PM
+Worked on latest release(utiliti widget) build.
+
 ##############
