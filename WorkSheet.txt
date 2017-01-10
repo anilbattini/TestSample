@@ -51,4 +51,6 @@ Worked on Videocon sample test and also updated the OEM doc
 10/1/17					Swetha G                       6:30PM
 Worked on latest release(China device) build.
 
+10/1/17					Naresh                       6:40PM
+Worked on CI-1037
 ##############
