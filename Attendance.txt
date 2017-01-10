@@ -19,9 +19,8 @@ Date    				# Name 						# LoginTime
 
 09/01/017 04:23                            Madhu
 
-10/01/2017				 Sreedhar Date						9:09 AM
+10/01/2017				 Sreedhar D						9:09 AM
 10/01/2017				 Lavanya Chinta						10:00 AM
 10/01/2017				 Nithin Naubad						10:20 AM
-
 #########
 
