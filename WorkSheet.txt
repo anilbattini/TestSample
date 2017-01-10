@@ -28,6 +28,3 @@ worked on peel map testing and CM tasks
 09/01/17  		Sridhar D
 Worked on CI-1031
 ##############
-
-10/01/17  		Sridhar D
-Working on CI-1031
