@@ -10,8 +10,17 @@ Worked on CI-1047, PPP-2646 and they are done.
 9/1/17					Lavanya Chinta                 6:00PM
 Worked on CI-1043 and CI-1052
 
+<<<<<<< HEAD
 9/1/17					Naresh                         6:30PM
 Worked on IR and migration of provider testing.
+=======
+9/1/17					Naresh                 6:30PM
+Worked on IR and migration og providers testing.
+
+9/1/17  				Reena T 				7:30PM
+Worked on tablet China build
+##############
+>>>>>>> 97d8da0... added today's data
 
 09/01/17                Rohitha Thammineni             8:00PM
 Worked on 9.7.1 regular release and worked on automation 
