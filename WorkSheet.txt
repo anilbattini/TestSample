@@ -42,4 +42,7 @@ Worked on tablet automation
 
 9/1/17					Swetha G                       6:30PM
 Worked on latest release(utiliti widget) build.
+
+10/01/17                Sriharsha Y                    5:30PM
+Worked on IR API's
 ##############
