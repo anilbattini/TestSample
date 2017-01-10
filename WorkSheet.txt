@@ -53,4 +53,7 @@ Worked on latest release(China device) build.
 
 10/1/17					Naresh                       6:40PM
 Worked on CI-1037
+
+10/01/17				Sridhar						6:57 pm
+Working on CI-1040		
 ##############
