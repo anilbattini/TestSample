@@ -1,4 +1,5 @@
-Date 					# Name 						# LogOffTime
+D
+te 					# Name 						# LogOffTime
 06/01/17				  Anilrajkumar Battini		  7:00PM
 
 Worked on CI-1047, PPP-2646 and they are done.
@@ -27,4 +28,18 @@ worked on peel map testing and CM tasks
 
 09/01/17  		Sridhar D
 Worked on CI-1031
+<<<<<<< HEAD
 ##############
+=======
+
+09/01/17				Archana
+Worked on tablet automation
+
+09/01/17                  Madhu
+###########
+
+
+
+
+
+>>>>>>> f12d429... Madhu-Statusupdate
