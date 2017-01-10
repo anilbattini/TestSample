@@ -56,4 +56,7 @@ Worked on CI-1037
 
 10/01/17				Sridhar						6:57 pm
 Working on CI-1040		
+
+10/1/17					Lavanya Chinta                 6:00PM
+Worked on CI-1043
 ##############
