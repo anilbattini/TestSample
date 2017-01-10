@@ -13,5 +13,7 @@ Worked on CI-1043 and CI-1052
 9/1/17					Naresh                 6:30PM
 Worked on IR and migration og providers testing.
 
+9/1/17  				Reena T 				7:30PM
+Worked on tablet China build
 ##############
 
