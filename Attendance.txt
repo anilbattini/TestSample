@@ -1,10 +1,5 @@
-<<<<<<< HEAD
 Date    				# Name 						# LoginTime
 ===================================================================================================
-=======
-D
-ite    				# Name 						# LoginTime
->>>>>>> cad6ae1... Madhu -Day2
 06/01/17				  Anilrajkumar Battini				  9:30AM		 
 09/01/17				  Lavanya Chinta    				  10:00AM	
 09/01/17				  Archana Ravilla				  10.30AM
@@ -27,7 +22,6 @@ ite    				# Name 						# LoginTime
 10/01/2017				 Nithin Naubad						10:20 AM
 10/01/2017				 Naresh     						10:30 AM
 10/01/2017				 Swetha G							10:30 AM
-<<<<<<< HEAD
 10/01/2017				 Reena T 							11:11 AM
 10/01/2017				 Swetha G						10:30 AM
 10/01/2017				 Shilpa Goteti						9:00AM
@@ -36,19 +30,8 @@ ite    				# Name 						# LoginTime
 10/01/2017               Rohitha Thammineni                   11:00AM
 10/01/2017               Revathi                   11:00AM
 10/01/2017				 Priya G                          11:58AM
-<<<<<<< HEAD
-=======
 10/01/2017               Ushakiran                          11:00 AM
-<<<<<<< HEAD
->>>>>>> 3138e21... Updated today status
-#########
-=======
 10/01/2017				 Archana Ravilla					10.30 AM	
-
 10/01/2017      03:29                      Madhu
-
->>>>>>> cad6ae1... Madhu -Day2
-=======
 10/01/2017				 Ranjith				              9:30AM		 
 #########
->>>>>>> 8e2922f... updated login time
