@@ -28,9 +28,6 @@ worked on peel map testing and CM tasks
 
 09/01/17  		Sridhar D
 Worked on CI-1031
-<<<<<<< HEAD
-##############
-=======
 
 09/01/17				Archana
 Worked on tablet automation
@@ -38,37 +35,22 @@ Worked on tablet automation
 09/01/17                  Madhu
 ###########
 
-
-
-
-
-<<<<<<< HEAD
->>>>>>> f12d429... Madhu-Statusupdate
-=======
 9/1/17					Swetha G                       6:30PM
 Worked on latest release(utiliti widget) build.
 
 10/01/17                Sriharsha Y                    5:30PM
 Worked on IR API's
-<<<<<<< HEAD
-##############
->>>>>>> 6e8d6ff... Sriharsha Worksheet updated
-=======
+
 10/01/17                Revathi                  5:30PM
 Worked on Videocon sample test and also updated the OEM doc
-<<<<<<< HEAD
-##############
->>>>>>> a246b19... Revathi's work sheet updated
-=======
 
 10/1/17					Swetha G                       6:30PM
 Worked on latest release(China device) build.
 
-<<<<<<< HEAD
-##############
->>>>>>> 2b2de83... updated out time
-=======
 10/1/17					Naresh                       6:40PM
 Worked on CI-1037
+
+
+10/01/17				Sridhar						6:57 pm
+Working on CI-1040		
 ##############
->>>>>>> 036ee5f... Updated worksheet
