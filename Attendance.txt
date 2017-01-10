@@ -22,12 +22,17 @@ Date    				# Name 						# LoginTime
 10/01/2017				 Lavanya Chinta						10:00 AM
 10/01/2017				 Nithin Naubad						10:20 AM
 10/01/2017				 Naresh     						10:30 AM
+
+10/01/2017				 Swetha G							10:30 AM
+10/01/2017				 Reena T 							11:11 AM
+
 10/01/2017				 Swetha G						10:30 AM
 10/01/2017				 Shilpa Goteti						9:00AM
 10/01/2017				 Jithin							10:30AM
 10/01/2017                               Rohitha Thammineni                                     11:00AM
 10/01/2017				 Sriharsha Y                     11:31AM
 10/01/2017               Rohitha Thammineni                   11:00AM
->>>>>>> 8e09244c89764b987134a0a8ff36b90dc9cab7e4
+10/01/2017               Revathi                   11:00AM
+10/01/2017				 Priya G                          11:58AM
 #########
 
