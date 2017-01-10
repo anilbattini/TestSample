@@ -47,4 +47,8 @@ Worked on latest release(utiliti widget) build.
 Worked on IR API's
 10/01/17                Revathi                  5:30PM
 Worked on Videocon sample test and also updated the OEM doc
+
+9/1/17					Swetha G                       6:30PM
+Worked on latest release(China device) build.
+
 ##############
