@@ -17,4 +17,6 @@ Worked on IR and migration of provider testing.
 Worked on 9.7.1 regular release and worked on automation 
 09/01/17                Sriharsha Y                    6:00PM
 Verified App and Git commands practised
+09/01/17                Revathi                   6:00PM
+worked on peel map testing and CM tasks
 ##############
