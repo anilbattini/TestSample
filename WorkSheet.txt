@@ -1,5 +1,4 @@
-D
-te 					# Name 						# LogOffTime
+Date 					# Name 						# LogOffTime
 06/01/17				  Anilrajkumar Battini		  7:00PM
 
 Worked on CI-1047, PPP-2646 and they are done.
@@ -59,4 +58,7 @@ Working on CI-1040
 
 10/1/17					Lavanya Chinta                 6:00PM
 Worked on CI-1043
+
+10/1/17
+Worked on 9.7.1.1v
 ##############
