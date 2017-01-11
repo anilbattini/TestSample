@@ -1,5 +1,4 @@
-D
-ite    				# Name 						# LoginTime
+Date    				# Name 						# LoginTime
 06/01/17				  Anilrajkumar Battini				  9:30AM		 
 09/01/17				  Lavanya Chinta    				  10:00AM	
 09/01/17				  Archana Ravilla				  10.30AM
