@@ -71,6 +71,9 @@ Working on CI-1037
 
 12/01/17				Naresh					5:15 pm
 Working on adding test cases for EPG service.
+
+12/01/17				Revathi				6:30 pm
+Worked on CI-1048 and Rebase task assigned by Anil
 ##############
 >>>>>>> a3f4dae... Revathi work update
 >>>>>>> f62e75112f2ffeade10ad6358fca70e9446a9132
