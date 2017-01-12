@@ -15,14 +15,14 @@ Date    				# Name 						# LoginTime
 09/01/17				  Revathi				          12:26PM
 09/01/17				  Naresh    		  			  10:40AM	
 09/01/17				  Jithin			                  12:50PM
-09/01/17				  Ushakiran							  03:28PM	
-
-09/01/017 04:23                            Madhu
+09/01/17				  Ushakiran							03:28PM	
+09/01/017                 Madhu								04:23
 
 10/01/2017				 Sreedhar D						    9:09 AM
 10/01/2017				 Lavanya Chinta						10:00 AM
 10/01/2017				 Nithin Naubad						10:20 AM
 10/01/2017				 Naresh     						10:30 AM
 10/01/2017				 Swetha G							10:30 AM
-10/01/2017				 Archana Ravilla					10.35 AM
+10/01/2017               Ushakiran                          11:00 AM
+#########
 
