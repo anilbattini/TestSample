@@ -15,8 +15,7 @@ Date    				# Name 						# LoginTime
 09/01/17				  Naresh    		  			  	10:40AM	
 09/01/17				  Jithin			                12:50PM
 09/01/17				  Ushakiran							03:28PM	
-09/01/017                 Madhu					
-					04:23
+09/01/017                 Madhu					            04:23
 10/01/2017				 Sreedhar D							9:09 AM
 10/01/2017				 Lavanya Chinta						10:00 AM
 10/01/2017				 Nithin Naubad						10:20 AM
@@ -51,6 +50,7 @@ Date    				# Name 						# LoginTime
 11/01/2017              Sriharsha Y						    11:35AM
 11/01/2017				Archana Ravilla						11.00AM
 
+12/01/2017              Shilpa                            9:20AM
 12/01/2017				Sreedhar						9:30 AM
 12/01/2017				Jithin Jawahar						10:00AM
 12/01/2017				Revathi						10:00AM
@@ -62,6 +62,6 @@ Date    				# Name 						# LoginTime
 
 12/01/2017              Ushakiran                   10:00AM
 
-12/01/2017           03:46             Madhu
+12/01/2017                Madhu                      03:46
 
 ############
