@@ -42,4 +42,15 @@ Date    				# Name 						# LoginTime
 11/01/2017				Jithin Jawahar						10:00AM
 11/01/2017				Swetha G							10:20AM
 11/01/2017				Naresh							    11:10AM
-#########
+11/01/2017				Revathi							10:30AM
+11/01/2017				Priya G   							11:35
+11/01/2017              Sriharsha Y						    11:35AM
+11/01/2017				Archana Ravilla						11.00AM
+
+12/01/2017				Sreedhar						9:30 AM
+12/01/2017				Jithin Jawahar						10:00AM
+12/01/2017				Revathi						10:00AM
+12/01/2017				Naresh						10:30AM
+12/01/2017				Priya G 							10:30AM
+12/01/2017				Nithin						11:00AM
+############
