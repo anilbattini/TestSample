@@ -10,24 +10,10 @@ Worked on CI-1047, PPP-2646 and they are done.
 9/1/17					Lavanya Chinta                 6:00PM
 Worked on CI-1043 and CI-1052
 
-
 9/1/17					Naresh                 6:30PM
 Worked on IR and migration og providers testing.
 
-9/1/17  				Reena T 				7:30PM
-Worked on tablet China build
+10/1/17
+Worked on Tablet Automation
 ##############
 
-9/1/17					Naresh                         6:30PM
-Worked on IR and migration of provider testing.
-
-
-09/01/17                Rohitha Thammineni             8:00PM
-Worked on 9.7.1 regular release and worked on automation 
-09/01/17                Sriharsha Y                    6:00PM
-Verified App and Git commands practised
-09/01/17                Revathi                   6:00PM
-worked on peel map testing and CM tasks
-09101/17  		Sridhar D
-Worked on CI-1031
-##############
