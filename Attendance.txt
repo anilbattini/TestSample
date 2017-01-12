@@ -50,4 +50,9 @@ Date    				# Name 						# LoginTime
 12/01/2017				Sreedhar						9:30 AM
 12/01/2017				Jithin Jawahar						10:00AM
 12/01/2017				Revathi						10:00AM
+<<<<<<< HEAD
+=======
+12/01/2017				Naresh						10:30AM
+12/01/2017				Priya G 							10:30AM
+>>>>>>> 75f0a4434308a6a12b162f4f7b202c2caf33da3e
 ############
