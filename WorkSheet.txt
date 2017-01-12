@@ -81,4 +81,7 @@ Working on CI-1037
 11/01/17                Ushakiran               6:00PM
 - Worked on Mi app and raised few issues.
 - Resolved few issues in PLM
+
+12/01/17				Naresh					5:15 pm
+Working on adding test cases for EPG service.
 ##############
