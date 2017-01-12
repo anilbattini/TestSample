@@ -6,5 +6,4 @@ Date 					# Name 						# LoginTime
 09/01/16				  Ranjith Kumar		          11.30AM
 09/01/16				  Nithin Naubad			      11:30AM
 09/01/16				  Sreedhar D			      11:47 AM
-09/01/16				  Reena T			      12:06 PM 	
 #########
